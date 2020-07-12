@@ -1,0 +1,12 @@
+first name ,gender,start date,last login time,salary,bonus%,senior manegement,Team
+douglas,male,8/6/1993,12:42 PM,67767,6.98,TRUE,marketing
+thoms,male,3/13/1996,6:53 PM,67555,7.876,TRUE,NaN
+maria,female,2/27/1998,5:53 AM,36478,8.88,FALSE,finance
+jerry,male,2/2/1997,7:00 PM,74563,9.99,TRUE,finance
+lorri,female,2/6/1998, 7:09 AM,46576,9.87,TRUE,client service
+dennis,male,9/26/1997,7:32 PM,57743,6.77,NaN,legal 
+ruby,male,9/8/1997,8:30 AM,56789,5.66,TRUE,product
+NaN,female,1/7/2015,4:40 PM,57632,7.6,TRUE,finance
+angela,male,3/3/2001,4:40 AM,56789,5.6,FALSE,engineering
+franvcc,female,3/3/2000,3:35 PM,78533,7.65,TRUE,buiseness devalopment
+louse,male,3/4/2006,3:35 AM,67775,5.66,FALSE,
